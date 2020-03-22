@@ -20,19 +20,16 @@ This will present the statistics of the [ASPLOS 2020 YouTube channel](https://ww
 
 ### Structure of this repository
 
-
-_Files_:
-
 - `asplos_2020_slack_stats.py`: scrip to generate [ACM ASPLOS 2020 Conference](https://www.asplos-conference.com) Slack statistics; script is self-contained and contains manually-collected data that is being plotted
 - `asplos_2020_youtube_stats.py`: scrip to generate [ACM ASPLOS 2020 Conference](https://www.asplos-conference.com) YouTube statistics; script is self-contained and contains manually-collected data that is being plotted
 - `asplos_2020_slack_stats.png`: result of `asplos_2020_slack_stats.py`
-- `asplos_2020_slack_stats.png`: result of `asplos_2020_slack_stats.py`
+- `asplos_2020_youtube_stats.png`: result of `asplos_2020_youtube_stats.py`
 - `README.md`: this file
 - `LICENCE`: license file
 
 ### History
 
-The data was collected manually online and presented in the form of these scripts by [Przemysław Pawełczak](https://github.com/przemyslaw-pawelczak/) on March 2020, 2020 - two days after the completion of [ACM ASPLOS 2020 Conference](https://www.asplos-conference.com). 
+The data was collected manually online and presented in the form of these scripts by [Przemysław Pawełczak](https://github.com/przemyslaw-pawelczak/) on March 22, 2020 - two days after the completion of [ACM ASPLOS 2020 Conference](https://www.asplos-conference.com). 
 
 ### Copyright
 
